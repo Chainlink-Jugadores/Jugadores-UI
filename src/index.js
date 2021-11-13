@@ -3,7 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import { MoralisProvider } from 'react-moralis'
+import { MoralisProvider } from 'react-moralis';
+//import { ChakraProvider } from "@chakra-ui/react";
 
 ReactDOM.render(
   <MoralisProvider
